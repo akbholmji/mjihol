@@ -1,0 +1,26 @@
+bava kka photo
+benzy  ok
+quotes for 4 pic ok
+greeting message banner
+sir photo
+mm akbar subair peediyakkal qutes
+new email id(1 got)
+
+https://script.google.com/macros/s/AKfycbyNGQverw1wQdMCPp0ZrTsIk-22kXt3I3WN25sB/exec
+
+
+
+<div class="mySlides fade">
+           <!-- <div class="numbertext">3 / 3</div> -->
+           <div class="container">
+            <img src="./images/loading.gif" alt="Avatar" style="width:90px">
+            <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+            <p>John Doe saved us from a web disaster.</p>
+          </div>
+           <!-- <div class="text">Caption Three</div> -->
+         </div>
+
+https://script.google.com/macros/s/AKfycbzNNJSVdbqY8SSmMOltm9uKsvL2PoH-6UUR6rqr2Q/exec
+
+ <span>&copy; Copyright-2021 Akbar Holidays Manjeri. </span>
+<span>&copy; Copyright-2021 Akbar Holidays Manjeri. </span>
